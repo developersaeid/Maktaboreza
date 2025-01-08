@@ -3,6 +3,8 @@ This project involves the redesign of the Maktaboreza website using Bootstrap, a
 
 <img src="https://github.com/developersaeid/Maktaboreza/blob/main/Screenshot%202025-01-08%20114248.png?raw=true"/>
 
+<a href="https://www.figma.com/design/20stC5kjFQVqSjbeYurjyW/Maktaboreza.com?node-id=0-1&t=eIdEOvRmytoriuzO-1">project design in figma </a>
+
 ## Key Features :
 
 Responsive Design: The website is designed to be fully responsive, ensuring seamless accessibility and optimal viewing experience across various devices, including desktops, tablets, and smartphones.
