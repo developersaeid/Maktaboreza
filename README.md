@@ -4,7 +4,7 @@ This project involves the redesign of the Maktaboreza website using Bootstrap, a
 
 <img src="https://github.com/developersaeid/Maktaboreza/blob/main/Screenshot%202025-01-08%20114248.png?raw=true"/>
 
-[![My Skills](https://skillicons.dev/icons?i=figma)](https://skillicons.dev) <a href="https://www.figma.com/design/20stC5kjFQVqSjbeYurjyW/Maktaboreza.com?node-id=0-1&t=eIdEOvRmytoriuzO-1"> Project design in Figma </a>
+<a href="https://www.figma.com/design/20stC5kjFQVqSjbeYurjyW/Maktaboreza.com?node-id=0-1&t=eIdEOvRmytoriuzO-1">🖌️ Project design in Figma </a>
 
 <br/>
 
