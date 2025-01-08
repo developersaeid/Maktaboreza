@@ -1,4 +1,4 @@
-# Maktaboreza
+# Maktaboreza.com
 This project involves the redesign of the Maktaboreza website using Bootstrap, a leading front-end framework for building responsive and mobile-first websites. Maktaboreza is an educational platform offering online courses and educational resources to students.
 <br/>
 
@@ -23,12 +23,8 @@ Cards: Bootstrap cards are employed to showcase course listings, instructor prof
 Forms: Bootstrap's form components are used to implement user registration, login, and contact forms, streamlining the user interaction process and enhancing usability.
 Technologies Used:
 
-HTML5: Markup language for structuring the website's content.
+<br/>
 
-CSS3: Styling language for enhancing the visual presentation of the website.
-
-Bootstrap: Front-end framework for building responsive and mobile-friendly websites.
-
-JavaScript: Programming language for adding interactivity and dynamic features to web pages.
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,bootstrap)](https://skillicons.dev)
 
 
