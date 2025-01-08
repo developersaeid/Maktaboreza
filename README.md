@@ -1,9 +1,12 @@
 # Maktaboreza
 This project involves the redesign of the Maktaboreza website using Bootstrap, a leading front-end framework for building responsive and mobile-first websites. Maktaboreza is an educational platform offering online courses and educational resources to students.
+<br/>
 
 <img src="https://github.com/developersaeid/Maktaboreza/blob/main/Screenshot%202025-01-08%20114248.png?raw=true"/>
 
-<a href="https://www.figma.com/design/20stC5kjFQVqSjbeYurjyW/Maktaboreza.com?node-id=0-1&t=eIdEOvRmytoriuzO-1">project design in figma </a>
+<a href="https://www.figma.com/design/20stC5kjFQVqSjbeYurjyW/Maktaboreza.com?node-id=0-1&t=eIdEOvRmytoriuzO-1">🔗 Project design in Figma </a>
+
+<br/>
 
 ## Key Features :
 
